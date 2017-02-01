@@ -285,8 +285,9 @@ ul.nav > li > a:hover, ul.nav > li > a:focus, ul.nav > li.active > a {
 }
 
 .hero_content .big_title span {
-    color: #2fbf71;
-    font-weight: 400
+    color: #04f774;
+    font-weight: 400;
+
 }
 
 .hero_content .sub_title {
